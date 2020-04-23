@@ -1,0 +1,8 @@
+Problema 3: ¿En qué consiste la exclusión mutua? 
+
+La exclusión mutua es una de las cuatro condiciones para que suceda un interbloqueo en un sistema, la cual consiste en un recurso en modo no compartido, es decir, un proceso puede usarlo a la vez, por lo que si otro proceso solicita el recurso, debe esperar hasta que este sea liberado por el otro proceso.
+
+
+Problema 4: ¿Qué es un socket? 
+
+Es un punto final de un enlace de comunicación bidireccional entre dos programas que se ejecutan en una red. Un socket está vinculado a un número de puerto para que la capa TCP pueda identificar la aplicación a la que están destinados los datos para ser enviados. Un punto final es una combinación de una dirección IP y un número de puerto.
